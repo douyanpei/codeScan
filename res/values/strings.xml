@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BarCodeTestActivity!</string>
+    <string name="app_name">二维码扫描</string>
+    <string name="codeScan">二维码扫描</string>
+    <string name="scanResult">扫描结果：</string>
+    <string name="createCode">生成二维码</string>
+    <string name="codeContent">请填写生成二维码的内容</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+
+</resources>
